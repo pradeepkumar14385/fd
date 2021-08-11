@@ -15,6 +15,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog("thtg github");
     // Do any additional setup after loading the view.
 }
 
